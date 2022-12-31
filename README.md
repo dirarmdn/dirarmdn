@@ -20,18 +20,12 @@
   
   <div>
   <samp>
-    <h2 align="center"> Github stats </h2>
-      <br/>
-    
-   
-  <summary><h3>languages</h3></summary>
             <p align="center">
         <a href="https://github.com/dirarmdn/">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dirarmdn&langs_count=6&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
           alt="dirarmdn :: overall Top Langs " /></a>
       </p>
 
-  <summary><h3>stasistic</h3></summary>
   <div align="center">
   <a href="https://github.com/dirarmdn/">
     <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dirarmdn&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=true&count_private=true"/>
