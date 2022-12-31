@@ -18,8 +18,6 @@
 </div>
 </details> -->
   
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
   <div>
   <samp>
     <h2 align="center"> Github stats </h2>
@@ -43,10 +41,9 @@
      <br>
      </samp>
   </div>    
-</details>
 
- <details>
-  <summary>☎️ Contact Me</summary>
+
+ 
 <div>
   <samp>
     <h2 align="center">you can reach me by:</h2>
@@ -54,14 +51,13 @@
       <br/>
       <a href="https://www.linkedin.com/in/dhiraramadini/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="azzar" height="30"/></a>
+         alt="" height="30"/></a>
       <a href="mailto:dhiraramadini@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="azzar" height="30"/></a>
+         alt="" height="30"/></a>
             <a href="https://instagram.com/dirarmdn" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="azzar" height="30"/></a>
+         alt="" height="30"/></a>
     </p>
   </samp>
 </div>
-</details>
