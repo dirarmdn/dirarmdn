@@ -2,7 +2,7 @@
 <body>
   
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Dhira</h1>
+<h2 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Dhira</h1>
 <h4 align="center">a software engineering students at Vocational High School 11 Bandung</h4>
 </div>
   
@@ -20,6 +20,8 @@
   
   <div>
   <samp>
+    <details>
+  <summary>📊 github stats</summary>
             <p align="center">
         <a href="https://github.com/dirarmdn/">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dirarmdn&langs_count=6&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
@@ -35,11 +37,14 @@
      <br>
      </samp>
   </div>    
+    </details>
 
 
  
 <div>
   <samp>
+        <details>
+  <summary>☎ contact me</summary>
     <h2 align="center">you can reach me by:</h2>
     <p align="center">
       <br/>
@@ -55,3 +60,4 @@
     </p>
   </samp>
 </div>
+  </details>
