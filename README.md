@@ -13,8 +13,8 @@ Hey! :wave: I'm Dhira
 -------
 -  ⚡ Just graduated from Vocational High School (Majoring in Software Engineering). 
 -  🍀 I'm currently learning NodeJS and SaSS.
--  🍎 Know more about me at [anshumanv.dev](https://anshumanv.dev).
--  ⚽ I like to listens to music and read books.
+-  💬 Feel free to ask about anything.
+-  📚 I like listening to music, reading books, and playing games.
 -------
 
 [![Dhira's GitHub Statistics](https://github-readme-stats-eight-theta.vercel.app/api?username=dirarmdn&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=true&count_private=true)](https://github.com/dirarmdn)
