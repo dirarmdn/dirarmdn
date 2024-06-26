@@ -1,4 +1,4 @@
-ordinary IT student, codes to solve (and make more) problems
+an ordinary IT student, codes to solve (and make more) problems
 
 open to collaboration and learning tgt! (plz gimme a mercy im new)
 <p>
