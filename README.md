@@ -1,6 +1,6 @@
 an ordinary IT student, codes to solve (and make more) problems
 
-open to collaboration and learning tgt! (plz gimme a mercy im new)
+open to collaboration and learning tgt!
 <p>
   <a href="[https://www.linkedin.com/in/dhiraramadini/]">
     <img src="https://img.shields.io/badge/-dhiraramadini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhiraramadini/">
