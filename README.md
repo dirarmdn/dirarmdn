@@ -9,9 +9,6 @@ open to collaboration and learning tgt!
     <img src="https://img.shields.io/badge/-dhiraramadini@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhiraramadini@gmail.com">
    <a/>
 </p>
-    
-![dirarmdn's Stats](https://github-readme-stats.vercel.app/api?username=dirarmdn&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
-![dirarmdn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dirarmdn&theme=nightowl&hide_border=true)
 
 <br>
 my tech stack(s)
