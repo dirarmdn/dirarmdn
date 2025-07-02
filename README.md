@@ -1,8 +1,4 @@
-part-time coder | full-time napper
-<br>
-✨ turning ideas into apps, and bugs into features.  
-🤝 always open to learn and collaborate
-
+hi lol
 <p>
   <a href="[https://www.linkedin.com/in/dhiraramadini/]">
     <img src="https://img.shields.io/badge/-dhiraramadini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhiraramadini/">
