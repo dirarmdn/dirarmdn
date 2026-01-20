@@ -8,13 +8,6 @@ hi lol
    <a/>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dirarmdn&theme=dracula&hide_border=false" alt="dirarmdn" />
-</p>
-
-<br>
-my tech stack(s) - not that good, just familiar ig
-<br>
 <br>
 <p align="left"> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
